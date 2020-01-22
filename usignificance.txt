@@ -1,0 +1,32 @@
+-u
+--set-upstream
+For every branch that is up to date or successfully pushed, 
+add upstream (tracking) reference, used by argument-less git-pull
+and other commands.
+
+ALTERNATIVE FOR GIT BASH
+
+ConEmu 		Powerful
+		fast 
+		reliable Windows terminal that can run any console WinAPI or Unix PTY 
+		Tabbed interface 
+		Quake-style 
+		Command line Customizable
+
+PowerShell	PowerShell (including Windows PowerShell and PowerShell Core)
+		 is a task automation and configuration management
+		 framework from Microsoft, consisting of a command-line.
+		Optimized for Windows 
+		PowerShell ing
+
+Hyper		Hyper™ is a beautiful and extensible, cross-platform 
+		terminal built on open web standards. It provides an 
+		elegant command-line experience that is consistent across all.
+		OPEN SOURCE 
+
+Windows Command Prompt	Command Prompt, also known as cmd.exe or cmd (after its executable file name),
+			 is the command-line interpreter on Windows NT,
+			 Windows CE, OS/2 and eComStation operating
+
+Terminus	Cross-platform, Electron-based terminal 
+		that works with Bash, Powershell, Cygwin
