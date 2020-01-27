@@ -1,0 +1,39 @@
+
+
+.navbar {
+    display:flex;
+    justify-content:space-between;
+    
+}
+#profile{
+    width: 20%;
+    display:inline;
+    text-align: right;
+
+}
+#para{
+    width: 70%;
+    float:left;
+}
+#img{
+    width: 30%;
+    float:right;
+    box-shadow: 5px 10px;
+}
+.img{
+    width: 30%;
+    float:right;
+    object-fit: fill;
+}
+.background{
+    width:100%;
+    object-fit:fill;
+
+}
+.abhi{
+    width: 100%;
+}
+#img:hover{
+    transition: 0.5s ease;
+    transform: scale(1.5);
+}

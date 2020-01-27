@@ -1,0 +1,22 @@
+h1{
+    text-align:center;
+}
+h2{
+    text-align:left;
+}
+h3{
+    text-align:right
+}
+div{
+    text-align:right;
+}
+h1{
+    tetx-decoration:overline;
+
+}
+h2{
+    text-decoration:line-through;
+}
+h3{
+    text-decoration:underline;
+}
